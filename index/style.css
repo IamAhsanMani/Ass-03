@@ -1,0 +1,34 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin-top: 20px;
+}
+h1{
+    text-transform: uppercase;
+    border-bottom-left-radius:30px;
+    border-top-right-radius: 30px;
+    background-color: rgba(64, 146, 201, 0.712);
+    color: rgb(218, 54, 54);
+    text-align: center;
+    padding: 20px;
+}
+ol{
+    list-style-type: upper-latin;
+}
+a{
+    text-transform: capitalize;
+    font-style: oblique;
+}
+li>a:hover{
+    text-decoration: none;
+}
+table{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
